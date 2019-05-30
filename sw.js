@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "index-org.html",
-    "revision": "6df4c431f88e10021ac95e5c368b3ac7"
+    "revision": "7190f3d77e176681e7f1030fb5ed52de"
   },
   {
     "url": "index.html",
-    "revision": "6df4c431f88e10021ac95e5c368b3ac7"
+    "revision": "7190f3d77e176681e7f1030fb5ed52de"
   },
   {
     "url": "build/p-0xz0rwso.entry.js"
@@ -106,7 +106,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "23ede5c391f4fbe2b55905cdf85c382a"
+    "revision": "956a9cbe9ad905e074146816e8c4663b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
